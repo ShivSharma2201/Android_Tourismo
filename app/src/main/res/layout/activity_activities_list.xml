@@ -29,7 +29,7 @@
         android:backgroundTint="#EFB6EE"
         android:backgroundTintMode="src_over"
         android:fontFamily="casual"
-        android:text="             TOURISMOO"
+        android:text="             TOURISMO"
         android:textSize="30dp"
         android:textStyle="normal|bold|italic"
         app:layout_constraintEnd_toEndOf="parent"
